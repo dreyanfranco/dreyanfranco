@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fullstack developer MERN stack, looking to learn new technologies and apply them in real world problems. Currently, exploring TypeScript and Next.js
+Fullstack developer MERN stack, looking to learn new technologies and apply them in real world problems. Currently, exploring TypeScript and Next.js.
 
 ---
 
